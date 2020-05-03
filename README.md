@@ -16,4 +16,4 @@ expression (microarray data) and ML/DL algorithms, which facilitates tumor type 
 
 Tabares-Soto R, Orozco-Arias S, Romero-Cano V, Segovia Bucheli V, Rodríguez-Sotelo JL, Jiménez-Varón CF. 2020. A comparative study of 
 machine learning and deep learning algorithms to classify cancer types based on microarray gene expression data. PeerJ Comput. Sci. 
-6:e270 DOI 10.7717/peerj-cs.270
+6:e270 DOI 10.7717/peerj-cs.270 https://peerj.com/articles/cs-270/ 
